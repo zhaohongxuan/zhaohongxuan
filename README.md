@@ -8,5 +8,5 @@
 - 👨🏻‍💻 I’m a backend engineer in Shanghai
 - 🏃🏻‍♂️ I love running & cycling and this is my [workout page](https://zhaohongxuan.github.io/workouts)
 - 🌍 Read more about my [Blog](https://zhaohongxuan.github.io/)
-- 😘 Follow me on [即刻](https://okjk.co/MfilXt) /[Twitter](https://twitter.com/hank_zhao)
+- 😘 Follow me on [Twitter](https://twitter.com/hank_zhao)
 
